@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+# Welcome to My Site
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the homepage for my Quartz site.
